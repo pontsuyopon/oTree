@@ -1,7 +1,7 @@
 # otreeを5.8.2にアップデートし、otree devserverをするとType errorが発生
 ひさしぶりにotreeを使うことになったのでアップデートしたところ動かなくなった
 
-![](./img/Terminal_error.png)
+![](../img/Terminal_error.png)
 
 ## 環境
 Anaconda: 4.10.3  
@@ -13,7 +13,7 @@ oTree: 3.1.1 → 5.8.2
 
 ・GUI側からだと3.9は作れないのでターミナルから行う
 
-![](./img/ANACONDA.NAVIGATOR.png)
+![](../img/ANACONDA.NAVIGATOR.png)
 無事にGUI上でも確認できた
 ## 原因: otree5はPython3.8に対応していない
 ・エラーをよく見たらPython側ぽかった
