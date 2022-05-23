@@ -16,4 +16,4 @@ oTree: 3.1.1 → 5.8.2
 ![](./img/ANACONDA.NAVIGATOR.png)
 無事にGUI上でも確認できた
 ## 原因: otree5はPython3.8に対応していない
-・エラーをよく見たらPython側ぽかった.
+・エラーをよく見たらPython側ぽかった。
